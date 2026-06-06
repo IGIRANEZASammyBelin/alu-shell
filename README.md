@@ -1,1 +1,1 @@
-# alu-shell
+Alu shell repository
